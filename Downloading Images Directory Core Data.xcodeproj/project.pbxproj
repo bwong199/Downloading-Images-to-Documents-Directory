@@ -13,6 +13,7 @@
 		C51B5A971CBC020300C6F68E /* Downloading_Images_Directory_Core_Data.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C51B5A951CBC020300C6F68E /* Downloading_Images_Directory_Core_Data.xcdatamodeld */; };
 		C51B5A991CBC020300C6F68E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C51B5A981CBC020300C6F68E /* Assets.xcassets */; };
 		C51B5A9C1CBC020300C6F68E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C51B5A9A1CBC020300C6F68E /* LaunchScreen.storyboard */; };
+		C51B5AA41CBC029700C6F68E /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51B5AA31CBC029700C6F68E /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C51B5A981CBC020300C6F68E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C51B5A9B1CBC020300C6F68E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C51B5A9D1CBC020300C6F68E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C51B5AA31CBC029700C6F68E /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C51B5A8E1CBC020300C6F68E /* AppDelegate.swift */,
 				C51B5A901CBC020300C6F68E /* ViewController.swift */,
 				C51B5A921CBC020300C6F68E /* Main.storyboard */,
+				C51B5AA31CBC029700C6F68E /* MyCollectionViewCell.swift */,
 				C51B5A981CBC020300C6F68E /* Assets.xcassets */,
 				C51B5A9A1CBC020300C6F68E /* LaunchScreen.storyboard */,
 				C51B5A9D1CBC020300C6F68E /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				C51B5A911CBC020300C6F68E /* ViewController.swift in Sources */,
 				C51B5A971CBC020300C6F68E /* Downloading_Images_Directory_Core_Data.xcdatamodeld in Sources */,
+				C51B5AA41CBC029700C6F68E /* MyCollectionViewCell.swift in Sources */,
 				C51B5A8F1CBC020300C6F68E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
